@@ -4,7 +4,7 @@
 - Age: tuổi
 - Height: chiều cao
 - Weight: cân nặng
-- family_history`: lịch sử béo phì của gia đình
+- family_history: lịch sử béo phì của gia đình
 - FAVC(Fast Food and Vegetable Consumption): tiêu thụ thực phẩm nhanh và rau quả
 - FCVC(Food Consumption and Vulnerability Criteria): mức độ tiêu thụ thực phẩm nhanh và rau quả
 - NCP(Nutritional Care Process): quy trình chăm sóc dinh đưỡng
